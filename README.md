@@ -1,2 +1,2 @@
 # java-springboot-demo
-My first Java backend project with Spring Boot
+这是我的第一个Java后端学习项目，基于Spring Boot框架开发。
